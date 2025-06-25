@@ -1,0 +1,23 @@
+[33mcommit 34b4e3a1abe09233c13d6ea44a8235a76ecb18cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ELDER <bharatpratap12abh@gmail.com>
+Date:   Sat May 31 10:49:38 2025 +0530
+
+    Initial commit - Upload TapNTrip project
+
+[33mcommit c6bb94162c14ead8131bef2ce548fc44386b079b[m
+Author: Suhanimehra <118792987+Suhanimehra@users.noreply.github.com>
+Date:   Thu May 29 03:38:32 2025 +0530
+
+    Initial commit of Saarthi frontend application with Firebase integration and logout functionality
+
+[33mcommit 44d4ba02c6ca1945ca4babb40ee5f6f7dc23f2c4[m
+Author: Suhanimehra <118792987+Suhanimehra@users.noreply.github.com>
+Date:   Mon May 26 16:55:27 2025 +0530
+
+    Initial commit: Saarthi frontend with React and Tailwind setup
+
+[33mcommit 67ce27ac86ccfc406ae8042eb99bc3c5aaced4e7[m
+Author: Suhanimehra <118792987+Suhanimehra@users.noreply.github.com>
+Date:   Mon May 26 16:21:18 2025 +0530
+
+    Initialize project using Create React App
