@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "dashboard": "Dashboard",
+    "flights": "Flights",
+    "hotels": "Hotels",
+    "trains": "Trains",
+    "buses": "Buses",
+    "packages": "Packages",
+    "activities": "Activities",
+    "myBookings": "My Bookings",
+    "profile": "Profile",
+    "rewards": "Rewards",
+    "logout": "Logout"
+  },
+  "common": {
+    "search": "Search",
+    "book": "Book",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "reset": "Reset",
+    "apply": "Apply",
+    "from": "From",
+    "to": "To",
+    "departure": "Departure",
+    "return": "Return",
+    "adults": "Adults",
+    "children": "Children",
+    "infants": "Infants",
+    "economy": "Economy",
+    "business": "Business",
+    "firstClass": "First Class",
+    "oneWay": "One Way",
+    "roundTrip": "Round Trip",
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out"
+  },
+  "bookings": {
+    "myBookings": "My Bookings",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "cancelled": "Cancelled",
+    "confirmed": "Confirmed",
+    "pending": "Pending",
+    "shareTrip": "Share Trip"
+  },
+  "rewards": {
+    "myRewards": "My Rewards",
+    "earnPoints": "Earn points with every booking",
+    "howRewardsWork": "How Rewards Work",
+    "yourPoints": "Your Points",
+    "points": "points",
+    "yourTier": "Your Tier",
+    "nextTier": "Next tier",
+    "yourBenefits": "Your Benefits",
+    "recentActivity": "Recent Activity"
+  },
+  "trips": {
+    "tripsYouMayLike": "Trips You May Like",
+    "viewAll": "View All",
+    "bookNow": "Book Now"
+  }
+} 

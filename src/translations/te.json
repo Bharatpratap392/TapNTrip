@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "dashboard": "డాష్‌బోర్డ్",
+    "flights": "విమానాలు",
+    "hotels": "హోటళ్లు",
+    "trains": "రైళ్లు",
+    "buses": "బస్సులు",
+    "packages": "ప్యాకేజీలు",
+    "activities": "కార్యకలాపాలు",
+    "myBookings": "నా బుకింగ్‌లు",
+    "profile": "ప్రొఫైల్",
+    "rewards": "రివార్డ్స్",
+    "logout": "లాగ్ అవుట్"
+  },
+  "common": {
+    "search": "వెతుకు",
+    "book": "బుక్ చేయండి",
+    "cancel": "రద్దు చేయండి",
+    "confirm": "నిర్ధారించండి",
+    "reset": "రీసెట్",
+    "apply": "వర్తించు",
+    "from": "నుండి",
+    "to": "వరకు",
+    "departure": "బయలుదేరడం",
+    "return": "తిరిగి రావడం",
+    "adults": "పెద్దవారు",
+    "children": "పిల్లలు",
+    "infants": "శిశువులు",
+    "economy": "ఎకానమీ",
+    "business": "బిజినెస్",
+    "firstClass": "ఫస్ట్ క్లాస్",
+    "oneWay": "ఒకవైపు",
+    "roundTrip": "రౌండ్ ట్రిప్",
+    "zoomIn": "జూమ్ ఇన్",
+    "zoomOut": "జూమ్ అవుట్"
+  },
+  "bookings": {
+    "myBookings": "నా బుకింగ్‌లు",
+    "upcoming": "రాబోయే",
+    "past": "గత",
+    "cancelled": "రద్దు చేయబడింది",
+    "confirmed": "నిర్ధారించబడింది",
+    "pending": "పెండింగ్‌లో ఉంది",
+    "shareTrip": "ప్రయాణాన్ని షేర్ చేయండి"
+  },
+  "rewards": {
+    "myRewards": "నా రివార్డ్స్",
+    "earnPoints": "ప్రతి బుకింగ్‌తో పాయింట్లను సంపాదించండి",
+    "howRewardsWork": "రివార్డ్స్ ఎలా పనిచేస్తాయి",
+    "yourPoints": "మీ పాయింట్లు",
+    "points": "పాయింట్లు",
+    "yourTier": "మీ స్థాయి",
+    "nextTier": "తదుపరి స్థాయి",
+    "yourBenefits": "మీ ప్రయోజనాలు",
+    "recentActivity": "ఇటీవలి కార్యాచరణ"
+  },
+  "trips": {
+    "tripsYouMayLike": "మీకు నచ్చే ప్రయాణాలు",
+    "viewAll": "అన్నీ చూడండి",
+    "bookNow": "ఇప్పుడే బుక్ చేయండి"
+  }
+} 
