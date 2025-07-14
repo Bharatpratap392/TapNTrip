@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "dashboard": "डैशबोर्ड",
+    "flights": "उड़ानें",
+    "hotels": "होटल",
+    "trains": "ट्रेनें",
+    "buses": "बसें",
+    "packages": "पैकेज",
+    "activities": "गतिविधियाँ",
+    "myBookings": "मेरी बुकिंग",
+    "profile": "प्रोफाइल",
+    "rewards": "रिवॉर्ड्स",
+    "logout": "लॉगआउट"
+  },
+  "common": {
+    "search": "खोजें",
+    "book": "बुक करें",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "reset": "रीसेट",
+    "apply": "लागू करें",
+    "from": "से",
+    "to": "तक",
+    "departure": "प्रस्थान",
+    "return": "वापसी",
+    "adults": "वयस्क",
+    "children": "बच्चे",
+    "infants": "शिशु",
+    "economy": "इकोनॉमी",
+    "business": "बिजनेस",
+    "firstClass": "फर्स्ट क्लास",
+    "oneWay": "एकतरफा",
+    "roundTrip": "राउंड ट्रिप",
+    "zoomIn": "ज़ूम इन",
+    "zoomOut": "ज़ूम आउट"
+  },
+  "bookings": {
+    "myBookings": "मेरी बुकिंग",
+    "upcoming": "आगामी",
+    "past": "पिछली",
+    "cancelled": "रद्द की गई",
+    "confirmed": "पुष्टि की गई",
+    "pending": "अपूर्ण",
+    "shareTrip": "यात्रा साझा करें"
+  },
+  "rewards": {
+    "myRewards": "मेरे रिवॉर्ड्स",
+    "earnPoints": "हर बुकिंग पर पॉइंट्स कमाएँ",
+    "howRewardsWork": "रिवॉर्ड्स कैसे काम करते हैं",
+    "yourPoints": "आपके पॉइंट्स",
+    "points": "पॉइंट्स",
+    "yourTier": "आपका टियर",
+    "nextTier": "अगला टियर",
+    "yourBenefits": "आपके लाभ",
+    "recentActivity": "हाल की गतिविधि"
+  },
+  "trips": {
+    "tripsYouMayLike": "यात्राएँ जो आपको पसंद आ सकती हैं",
+    "viewAll": "सभी देखें",
+    "bookNow": "अभी बुक करें"
+  }
+} 

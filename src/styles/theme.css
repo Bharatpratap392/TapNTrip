@@ -1,0 +1,154 @@
+/* Dark Theme Variables */
+:root {
+  --dark-bg-primary: #1a1e2e;
+  --dark-bg-secondary: #1a1e2e;
+  --dark-bg-tertiary: #242938;
+  --dark-text-primary: #ffffff;
+  --dark-text-secondary: #a0aec0;
+  --dark-border: #2d3348;
+  --dark-hover: #2d3348;
+  --dark-accent: #2d3348;
+}
+
+/* Light Theme Variables */
+:root {
+  --light-bg-primary: #ffffff;
+  --light-bg-secondary: #f3f4f6;
+  --light-bg-tertiary: #e5e7eb;
+  --light-text-primary: #1a1a1a;
+  --light-text-secondary: #4b5563;
+  --light-border: #e2e8f0;
+  --light-hover: #f8fafc;
+}
+
+/* Dark Theme Classes */
+.dark,
+.dark * {
+  color: var(--dark-text-primary);
+}
+
+.dark .sidebar,
+.dark .main-content,
+.dark .container,
+.dark .content-wrapper,
+.dark [class*="container"],
+.dark [class*="wrapper"],
+.dark [class*="section"],
+.dark [class*="card"],
+.dark [class*="box"] {
+  background-color: var(--dark-bg-primary) !important;
+  border-color: var(--dark-border);
+}
+
+/* Specific overrides for search section */
+.dark .search-section,
+.dark .search-box,
+.dark .search-container,
+.dark .search-wrapper,
+.dark .search-form,
+.dark .search-content,
+.dark div[class*="search"] {
+  background-color: var(--dark-bg-primary) !important;
+  color: var(--dark-text-primary);
+  border-color: var(--dark-border);
+}
+
+/* Specific overrides for flight cards */
+.dark .flight-card,
+.dark .flight-container,
+.dark .flight-details,
+.dark .flight-wrapper,
+.dark div[class*="flight"],
+.dark .booking-card,
+.dark .card {
+  background-color: var(--dark-bg-primary) !important;
+  border-color: var(--dark-border);
+}
+
+/* Form elements */
+.dark input,
+.dark select,
+.dark textarea,
+.dark .input-field,
+.dark [type="text"],
+.dark [type="date"],
+.dark [class*="input"] {
+  background-color: var(--dark-bg-primary) !important;
+  color: var(--dark-text-primary);
+  border-color: var(--dark-border);
+}
+
+/* Buttons */
+.dark button,
+.dark .button,
+.dark [class*="btn"] {
+  background-color: var(--dark-bg-primary) !important;
+  color: var(--dark-text-primary);
+  border-color: var(--dark-border);
+}
+
+.dark button:hover,
+.dark .button:hover,
+.dark [class*="btn"]:hover {
+  background-color: var(--dark-hover) !important;
+}
+
+/* Radio buttons and labels */
+.dark input[type="radio"] + label {
+  color: var(--dark-text-primary);
+}
+
+.dark input[type="radio"]:checked + label {
+  color: var(--dark-text-primary);
+  font-weight: bold;
+}
+
+/* Labels and text */
+.dark label,
+.dark .label,
+.dark .form-label,
+.dark .input-label {
+  color: var(--dark-text-primary);
+}
+
+/* Header and navigation */
+.dark header,
+.dark nav,
+.dark .nav-container,
+.dark .header,
+.dark .navbar,
+.dark [class*="header"],
+.dark [class*="nav"] {
+  background-color: var(--dark-bg-primary) !important;
+  border-color: var(--dark-border);
+}
+
+/* Active/Selected states */
+.dark .active,
+.dark .selected {
+  background-color: var(--dark-accent) !important;
+  color: var(--dark-text-primary);
+}
+
+/* Borders and dividers */
+.dark .border,
+.dark .divider,
+.dark hr {
+  border-color: var(--dark-border);
+}
+
+/* Transitions */
+.sidebar,
+.main-content,
+.card,
+.search-section,
+.flight-card,
+input,
+select,
+button,
+label,
+.border,
+.divider,
+hr {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+} 
