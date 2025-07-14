@@ -180,22 +180,6 @@ TapNTrip/
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed information:
-   - Operating system and version
-   - Node.js and npm versions
-   - Error messages
-   - Steps to reproduce
-
 ## 🔄 Updates
 
 To update the project:
