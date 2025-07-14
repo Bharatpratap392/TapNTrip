@@ -56,7 +56,7 @@ TapNTrip is more than just a travel booking site — it’s a mission-driven pla
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/yourusername/tapntrip.git
+   git clone https://github.com/Bharatpratap392/tapntrip.git
    cd tapntrip
    ```
    
