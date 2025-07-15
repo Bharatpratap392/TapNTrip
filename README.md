@@ -77,20 +77,7 @@ TapNTrip is more than just a travel booking site — it’s a mission-driven pla
    npm install
    ```
 
-3. **Set up Environment Variables**
-   
-   Create a `.env.local` file in the root directory:
-   ```env
-   REACT_APP_FIREBASE_API_KEY=your_firebase_api_key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-   REACT_APP_FIREBASE_PROJECT_ID=your_firebase_project_id
-   REACT_APP_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-   REACT_APP_FIREBASE_APP_ID=your_firebase_app_id
-   REACT_APP_FIREBASE_MEASUREMENT_ID=your_firebase_measurement_id
-   ```
-
-4. **Start the Development Server**
+3. **Start the Development Server**
    ```bash
    # Start on default port (3000)
    npm start
@@ -99,7 +86,7 @@ TapNTrip is more than just a travel booking site — it’s a mission-driven pla
    npm run start:3001
    ```
 
-5. **Open Your Browser**
+4. **Open Your Browser**
    
    Navigate to `http://localhost:3000` or `http://localhost:3001`
 
